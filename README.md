@@ -37,5 +37,5 @@ https://www.instagram.com/reel/DYrG_UWiewY/?utm_source=ig_web_copy_link&igsh=MzR
 
 ---
 
-## Author
+## Developed by
 Adharsh
